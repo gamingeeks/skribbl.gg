@@ -4,7 +4,7 @@
 
 Feel free to play on this instance
 
-* [https://scribblers-official.herokuapp.com/](https://skribbl-ggeeks.herokuapp.com/)
+* [https://skribbl-ggeeks.herokuapp.com/](https://skribbl-ggeeks.herokuapp.com/)
   > Might not respond right-away, just wait some seconds / minutes, as it
   > shuts down automatically when unused.
 
